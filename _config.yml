@@ -1,3 +1,4 @@
+layout_spectrum: 0.22933490946888924
 typography_spectrum: 0.8082124565262347
 color:
   brandStrength: 0.1304995126556605
@@ -10,11 +11,4 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.22933490946888924
-author:
-  name: Mandeep Dalip
-  email: mandeepdalip1@gmail.com
-  url: www.ubereagle.com
 name: ubereagle.com
-title: Power Your Dream
-description: 'One Goal, One Passion - Global Entrepreneur'
